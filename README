@@ -1,0 +1,8 @@
+Start MongoDB server
+
+Bens-iMac:mongo beneblen$ cd bin
+Bens-iMac:bin beneblen$ ./mongod --dbpath ~/mongo-data
+
+
+Access the MongoDB command in terminal 
+./mongo
